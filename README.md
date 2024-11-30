@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:nur35982@gmail.com">Email</a> |
   <a href="https://www.nurnobi.com/">Portfolio</a> |
-  <a href="https://github.com/Nur35982">GitHub</a>
+  <a href="https://medium.com/@nur35982">Medium</a>
 </p>
 
 ---
