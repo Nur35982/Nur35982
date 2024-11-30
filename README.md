@@ -53,8 +53,8 @@ I am a final semester undergraduate student at North South University, majoring 
 ### My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nur35982&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nur35982&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nur35982&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nur35982&layout=compact&theme=radical" alt="Most Used Languages" width="400" />
 </p>
 
 ---
