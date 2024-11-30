@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Nur35982
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...<h1 align="center">Hi 👋, I'm Md. Nurnobi Islam</h1>
+<h1 align="center">Hi 👋, I'm Md. Nurnobi Islam</h1>
 <h3 align="center">Aspiring Machine Learning Engineer from Bangladesh</h3>
 
 <p align="center">
@@ -117,9 +111,3 @@ I am passionate about exploring new technologies and taking on challenging proje
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
-
-
-<!---
-Nur35982/Nur35982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
