@@ -52,12 +52,32 @@ I am a final semester undergraduate student at North South University, majoring 
 
 ### My Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nur35982&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nur35982&layout=compact&theme=radical" alt="Most Used Languages" width="400" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
----
+  <div style="text-align: center; border: 2px solid #ccc; border-radius: 10px; padding: 10px; width: 400px;">
+    <h3>Md. Nurnobi Islam's GitHub Stats</h3>
+    <p>
+      ⭐ Total Stars Earned: 0 <br>
+      📋 Total Commits (2024): 17 <br>
+      🔄 Total PRs: 0 <br>
+      🐞 Total Issues: 0 <br>
+      🛠 Contributed to (last year): 0
+    </p>
+  </div>
+
+  <div style="text-align: center; border: 2px solid #ccc; border-radius: 10px; padding: 10px; width: 400px;">
+    <h3>Most Used Languages</h3>
+    <p>
+      🟠 Jupyter Notebook: 98.02% <br>
+      🔴 HTML: 1.37% <br>
+      🔵 Python: 0.43% <br>
+      🟣 CSS: 0.16% <br>
+      🟡 JavaScript: 0.01%
+    </p>
+  </div>
+
+</div>
+
 
 ### Favorite Pastimes
 
