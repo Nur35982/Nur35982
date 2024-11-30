@@ -52,28 +52,30 @@ I am a final semester undergraduate student at North South University, majoring 
 
 ### My Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-  <div style="text-align: center; border: 2px solid #ccc; border-radius: 10px; padding: 10px; width: 400px;">
-    <h3>Md. Nurnobi Islam's GitHub Stats</h3>
-    <p>
-      ⭐ Total Stars Earned: 0 <br>
-      📋 Total Commits (2024): 17 <br>
-      🔄 Total PRs: 0 <br>
-      🐞 Total Issues: 0 <br>
-      🛠 Contributed to (last year): 0
-    </p>
+  <!-- GitHub Stats Section -->
+  <div style="width: 400px; height: 250px; border: 2px solid #ccc; border-radius: 10px; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <h3 style="color: #ff69b4;">Md. Nurnobi Islam's GitHub Stats</h3>
+    <ul style="list-style: none; padding: 0; margin: 0; text-align: left;">
+      <li>⭐ <b>Total Stars Earned:</b> 0</li>
+      <li>📋 <b>Total Commits (2024):</b> 17</li>
+      <li>🔄 <b>Total PRs:</b> 0</li>
+      <li>🐞 <b>Total Issues:</b> 0</li>
+      <li>🛠 <b>Contributed to (last year):</b> 0</li>
+    </ul>
   </div>
 
-  <div style="text-align: center; border: 2px solid #ccc; border-radius: 10px; padding: 10px; width: 400px;">
-    <h3>Most Used Languages</h3>
-    <p>
-      🟠 Jupyter Notebook: 98.02% <br>
-      🔴 HTML: 1.37% <br>
-      🔵 Python: 0.43% <br>
-      🟣 CSS: 0.16% <br>
-      🟡 JavaScript: 0.01%
-    </p>
+  <!-- Most Used Languages Section -->
+  <div style="width: 400px; height: 250px; border: 2px solid #ccc; border-radius: 10px; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <h3 style="color: #ff69b4;">Most Used Languages</h3>
+    <ul style="list-style: none; padding: 0; margin: 0; text-align: left;">
+      <li>🟠 <b>Jupyter Notebook:</b> 98.02%</li>
+      <li>🔴 <b>HTML:</b> 1.37%</li>
+      <li>🔵 <b>Python:</b> 0.43%</li>
+      <li>🟣 <b>CSS:</b> 0.16%</li>
+      <li>🟡 <b>JavaScript:</b> 0.01%</li>
+    </ul>
   </div>
 
 </div>
