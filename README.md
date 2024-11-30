@@ -52,34 +52,12 @@ I am a final semester undergraduate student at North South University, majoring 
 
 ### My Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nur35982&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nur35982&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
-  <!-- GitHub Stats Section -->
-  <div style="width: 400px; height: 250px; border: 2px solid #ccc; border-radius: 10px; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <h3 style="color: #ff69b4;">Md. Nurnobi Islam's GitHub Stats</h3>
-    <ul style="list-style: none; padding: 0; margin: 0; text-align: left;">
-      <li>⭐ <b>Total Stars Earned:</b> 0</li>
-      <li>📋 <b>Total Commits (2024):</b> 17</li>
-      <li>🔄 <b>Total PRs:</b> 0</li>
-      <li>🐞 <b>Total Issues:</b> 0</li>
-      <li>🛠 <b>Contributed to (last year):</b> 0</li>
-    </ul>
-  </div>
-
-  <!-- Most Used Languages Section -->
-  <div style="width: 400px; height: 250px; border: 2px solid #ccc; border-radius: 10px; padding: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <h3 style="color: #ff69b4;">Most Used Languages</h3>
-    <ul style="list-style: none; padding: 0; margin: 0; text-align: left;">
-      <li>🟠 <b>Jupyter Notebook:</b> 98.02%</li>
-      <li>🔴 <b>HTML:</b> 1.37%</li>
-      <li>🔵 <b>Python:</b> 0.43%</li>
-      <li>🟣 <b>CSS:</b> 0.16%</li>
-      <li>🟡 <b>JavaScript:</b> 0.01%</li>
-    </ul>
-  </div>
-
-</div>
-
+---
 
 ### Favorite Pastimes
 
