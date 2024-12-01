@@ -5,7 +5,7 @@
   <a href="mailto:nur35982@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.nurnobi.com/">
+  <a href="https://sites.google.com/view/m-nurnobi-islam/">
     <img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://medium.com/@nur35982">
