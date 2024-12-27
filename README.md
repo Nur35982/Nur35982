@@ -23,7 +23,7 @@
 
 ### About Me
 
-I am a final semester undergraduate student at North South University, majoring in Computer Science and Engineering (CSE). I have a strong proficiency in web development, machine learning, autonomous mobile robotics, and engineering economics. My academic journey has equipped me with a diverse skill set, and I am passionate about programming, problem-solving, and writing about engineering economics.
+I am a CSE Graduate from North South University (NSU), with strong proficiency in web development, machine learning, autonomous mobile robotics, and engineering economics. My academic journey has equipped me with a diverse skill set, and I am passionate about programming, problem-solving, and writing about engineering economics.
 
 ---
 
